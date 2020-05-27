@@ -126,7 +126,7 @@
 }
 
 .avatar-1BDn8e[src*="683287574076588103"]:hover + h2::after {
-  content: 'Cheesus';
+  content: '♡';
   --main-color: #51007a;
 }
 
